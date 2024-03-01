@@ -13,7 +13,7 @@ DNScraft is a DNS resolver developed in Python for domain name resolution, rever
 
 We conducted a performance experiment comparing DNScraft to public DNS services. The experiment involved resolving times and response data for 5000 domain names. The results demonstrated DNScraft's efficiency and reliability in resolving DNS queries.
 
-For detailed usage instructions and available options, refer to the documentation in the `docs` directory.
+
 
 Contributions to DNScraft are welcome! If you have any ideas for improvements, bug fixes, or new features, feel free to open an issue or submit a pull request.
 
